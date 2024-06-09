@@ -1,4 +1,5 @@
 title: Briana 
-remote_theme: daviddarnes/alembic@main
+# remote_theme: daviddarnes/alembic@main
+theme: jekyll-theme-clean-blog
 plugins:
 - jekyll-remote-theme
