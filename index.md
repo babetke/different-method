@@ -7,7 +7,7 @@ I use a statistical modeling approach to investigate the impacts of anthropogeni
 
 
   <div class="row">
-    <div class="col-md-12 text-end social-media-icons">
+    <div class="col-md-6 text-end social-media-icons">
       {% for item in site.data.settings.social %}
         <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
       {% endfor %}
