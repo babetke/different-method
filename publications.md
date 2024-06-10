@@ -2,9 +2,6 @@
 layout: publications
 title: "Publications"
 ---
-
-Publications
-
 **Peer-Review**  
 2022   
 Omayma Amin, Christina A. Rostad, Mark Gonzalez, Bradley S. Rostad, Shelley Caltharp, Elizabeth Quincer, <strong> Briana A. Betke </strong>, Nicole L. Gottdenker, Jonathan J. Wilson, Andi L. Shane, Mohnd Elmontser, Andres Camacho-Gonzalez, Tal Senior, Oliver Smith, Evan J. Anderson, Inci Yildirim.(In Press). Cat-Scratch Disease: 9 Years of Experience at a Pediatric Center. *Open Forum Infectious Diseases.*
