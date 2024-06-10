@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![image](/images/profile.png){: style="float: left"}
+![image](/images/profile.jpg){: style="float: left"}
 
 I am a PhD Candidate in the Ecology, Evolution, and Behavior program at the University of Texas at Austin in the [Meyers lab](http://www.bio.utexas.edu/research/meyers/), co-advised by [Nicole Gottdenker DVM, MS, PhD, Dipl. ACVP.](https://www.gottdenkerlab.com/). 
 
