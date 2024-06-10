@@ -1,3 +1,8 @@
+---
+layout: publications
+title: "Publications"
+---
+
 Publications
 
 **Peer-Review**  
