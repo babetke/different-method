@@ -1,6 +1,6 @@
 ---
-title: ""
-permalink: /DDCSP/
+layout: default
+title: "DDCSP""
 header:
   image: "/images/DDCSP_outside.jpg"
   caption: "Photo Credit: Rena Borkhataria"
