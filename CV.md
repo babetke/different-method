@@ -1,6 +1,6 @@
 ---
-title: ""
-permalink: /CV/
+layout: default
+title: cv
 ---
 
 <body>
