@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "DDCSP""
+title: "DDCSP"
 header:
   image: "/images/DDCSP_outside.jpg"
   caption: "Photo Credit: Rena Borkhataria"
