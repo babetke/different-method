@@ -16,9 +16,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/babetke'}
+- {icon: 'twitter', link: 'https://twitter.com/brianaabook'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/briana-betke-02135b151/'}
 - {icon: 'google scholar', link: 'https://scholar.google.com/citations?user=Aw-DXJAAAAAJ&hl=en'}
 
 contacts:
