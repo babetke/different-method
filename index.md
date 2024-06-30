@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 <center><img src="/different-method/assets/img/altbat.png" alt="" width="155"></center>
-<br><br>
+<br>
 
 I am a disease ecologist interested in assessing the impacts of urbanization and synanthropic behavior on host--pathogen interactions with the aim to improve prediction of reservoir hosts and pathogen emergence.
 
@@ -12,6 +12,7 @@ I am an NSF Postdoctoral research fellow at the University of Oklahoma working i
 
 I completed my PhD in the Ecology, Evolution, and Behavior program at the University of Texas at Austin under the supervision of [Lauren Ancel Meyers, PhD](http://www.bio.utexas.edu/research/meyers/) and [Nicole Gottdenker DVM, MS, PhD, Dipl. ACVP.](https://www.gottdenkerlab.com/)
 
+<br>
 <p style="text-align:center;font-size:110%">
 <a href="mailto:briana.a.bekte-1@ou.edu"> <img src="/different-method/assets/img/email.png" width="40" height="40"></a>
 <a href="https://twitter.com/brianaabook"> <img src="/different-method/assets/img/twitter.png" width="40" height="40"></a>
