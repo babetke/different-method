@@ -4,6 +4,7 @@ title: "Home"
 ---
 
 <center><img src="/different-method/assets/img/altbat.png" alt="" width="155"></center>
+<br><br>
 
 I am a disease ecologist interested in assessing the impacts of urbanization and synanthropic behavior on host--pathogen interactions with the aim to improve prediction of reservoir hosts and pathogen emergence.
 
