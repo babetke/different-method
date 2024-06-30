@@ -9,8 +9,8 @@ I am an NSF Postdoctoral research fellow at the University of Oklahoma working i
 
 I completed my PhD in the Ecology, Evolution, and Behavior program at the University of Texas at Austin under the supervision of [Lauren Ancel Meyers, PhD](http://www.bio.utexas.edu/research/meyers/) and [Nicole Gottdenker DVM, MS, PhD, Dipl. ACVP.](https://www.gottdenkerlab.com/)
 
-
-
+<br/><br/>
+<p style="text-align:center;font-size:110%">
 <a href="briana.a.bekte-1@ou.edu"> <img src="/different-method/assets/img/email.png" width="60" height="60"></a>
 <a href="https://twitter.com/brianaabook"> <img src="/different-method/assets/img/twitter.png" width="60" height="60"></a>
 <a href="https://scholar.google.com/citations?user=Aw-DXJAAAAAJ&hl=en"> <img src="/different-method/assets/img/google.png" width="60" height="60"></a>
