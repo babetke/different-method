@@ -3,6 +3,8 @@ layout: home
 title: "Home"
 ---
 
+<center><img src="/different-method/assets/img/bat.png" alt="" width="155"></center>
+
 I am a disease ecologist interested in assessing the impacts of urbanization and synanthropic behavior on host--pathogen interactions with the aim to improve prediction of reservoir hosts and pathogen emergence.
 
 I am an NSF Postdoctoral research fellow at the University of Oklahoma working in the [Becker lab](http://beckerlab.weebly.com/) where I combine machine learning, field, and molecular techniques to predict and validate bat--virus family associations in the context of anthropogenic roosting behavior. 
