@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "Research"
+header:
+  image: "/different-method/assets/img/mcneil.jpeg"
+  caption: "Photo Credit: Briana Betke"
 ---
 
 **Interests**
