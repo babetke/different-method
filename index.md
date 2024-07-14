@@ -1,6 +1,9 @@
 ---
 layout: home
 title: "Home"
+header:
+  image: "/different-method/assets/img/mcneil.jpeg"
+  caption: "Photo Credit: Briana Betke"
 ---
 
 <center><img src="/different-method/assets/img/altbat.png" alt="" width="155"></center>
