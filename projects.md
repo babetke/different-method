@@ -2,7 +2,7 @@
 layout: default
 title: "Research"
 ---
-<center><img src="/different-method/assets/img/mcneil.jpeg" alt="" width="500"></center>
+<center><img src="/different-method/assets/img/mcneil_cropped.jpeg" alt="" width="100%"></center>
 
 **Interests**
 
