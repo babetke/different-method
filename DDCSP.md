@@ -1,19 +1,17 @@
 ---
 layout: default
-title: "DDCSP"
-header:
-  image: "/images/DDCSP_outside.jpg"
-  caption: "Photo Credit: Rena Borkhataria"
 ---
 
-**Doris Duke Conservation Scholars Program (DDCSP)**
+**Doris Duke Conservation Scholars Program (Now the Conservation Collaborative)**
 
 The DDCSP is a research program intended to promote diversity, equity and inclusion in the field of conservation, or related fields, by supporting students of underrepresented groups in a two year program. The program consists of two paid summers to develop research skills and a week-long DEI focused leadership training. After participation in the DDSCP, alumni can receive further support through the Alumni Leadership Cohort (ALC) with additional leadership training in topics including such as Diversity, Equity and Inclusion, Social Change, Network Building, Developing a Personal Leadership Plan.
 
-**DDCSP-UF 2015**
+**DDCSP Collaborative 2015**
 
-![NCTC](/images/Picture1.png)
-*Photo credit: National Conservation Training Center*
+<figure>
+  <img src="/images/Picture1.png" alt="ddcsp" style="width:100%">
+  <figcaption>Photo credit: National Conservation Training Center>
+</figure>
 
 As an undergraduate, I was accepted into the second cohort of the DDCSP Collaborative in 2015. I worked on two different projects during my first summer both located in Arizona. The first project, I assisted in the locating of bighorn sheep, the maintenance of trail cameras, and collection of vegetation samples in the Catalina Mountains. The second project included observing gray hawk nests and recording alarm calls. I spent my second summer with the California Department of Fish and Wildlife's investigations Lab where I conducted necropies, delivered tissues for diagnostic testing, and managed data.
 
@@ -26,7 +24,7 @@ In 2017, I was selected to participate in the first Alumni Leadership Cohort (AL
 
 **Minorities in Biological Research (MBR)**
 
-I am an organizing member of the [Minorities in Biological Research Program](https://minoritiesinbiologicalresearch.weebly.com) at the University of Texas at Austin. MBR is a program intended to provide information to undergraduate students of underrepresented groups relating to preparing for graduate school or a career in research. I assist with the organizing of workshops and the development of content such as handouts. In March of 2021, I presented on the graduate panel to show students my path to graduate school. 
+I was an organizing member of the [Minorities in Biological Research Program](https://minoritiesinbiologicalresearch.weebly.com) at the University of Texas at Austin. MBR is a program intended to provide information to undergraduate students of underrepresented groups relating to preparing for graduate school or a career in research. I assist with the organizing of workshops and the development of content such as handouts. In March of 2021, I presented on the graduate panel to show students my path to graduate school. 
 
 **Mentorship**
 
