@@ -3,6 +3,7 @@ layout: default
 title: "Research"
 ---
 <center><img src="/different-method/assets/img/mcneil_cropped.jpeg" alt="" width="100%"></center>
+<br>
 
 **Interests**
 
