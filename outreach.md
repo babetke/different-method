@@ -18,16 +18,16 @@ Through the Alumni Leadership Cohort, I mentored a current undergraduate student
 
 **Public engagement**
 
-2024
+#### 2024
 Speaker • Anthropogenic Roosting Ability and Viral Associations in Bats • Verena Lighthouse Lightning Talks • https://www.viralemergence.org/outreach
 
-2021
+#### 2021
 Speaker • Urban Mammals • Science Under the Stars • [scienceunderthestars.org](https://scienceunderthestars.org)
 
 Organizing member, author, and speaker for workshops • Minorities in Biological Research • minoritiesinbiologicalresearch.weebly.com
 
-2018
+#### 2018
 Speaker • Career Paths in Wildlife Disease Research • Diseases of Wildlife Course, The University of Arizona
 
-2015 
+#### 2015 
 Speaker •  Gray Hawk Project • Southwest Wings Festival, Cochise College, Sierra Vista, AZ

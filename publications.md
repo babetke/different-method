@@ -2,8 +2,10 @@
 layout: default
 title: "Publications"
 ---
-
 ## Publications
+
+<center><img src="/images/IMG_1755.jpeg" alt="" width="100%"></center>
+<br>
 
 #### 2024
 **Briana Betke**, Nicole Gottdenker, Lauren Ancel Meyers LA, Daniel J. Becker. Ecological and evolutionary characteristics of synanthropic roosting ability in bats of the world. (2024) *iScience*. [Article](https://doi.org/10.1016/j.isci.2024.110369)
