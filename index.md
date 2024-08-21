@@ -19,4 +19,4 @@ I completed my PhD in the Ecology, Evolution, and Behavior program at the Univer
 <a href="https://scholar.google.com/citations?user=Aw-DXJAAAAAJ&hl=en"> <img src="/different-method/assets/img/google.png" width="40" height="40"></a>
 <a href="https://github.com/babetke"> <img src="/different-method/assets/img/github.png" width="40" height="40"></a>
 <a href="https://www.linkedin.com/in/briana-betke-02135b151/"> <img src="/different-method/assets/img/linkedin.png" width="40" height="40"></a>
-<a href="https://babetke.github.io/images/Betke_CV_2022.pdf"> <img src="/different-method/assets/img/resume.png" width="40" height="40"></a>
+<a href="https://babetke.github.io/images/Betke_CV_2022.pdf"> <img src="/different-method/assets/img/resume icon.png" width="40" height="40"></a>
