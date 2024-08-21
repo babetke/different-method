@@ -1,7 +1,7 @@
 menu:
 - {name: 'research', url: '/projects'}
 - {name: 'publications', url: '/publications'}
-- {name: 'outreach', url: '/DDCSP'}
+- {name: 'outreach', url: '/outreach'}
 - {name: 'about', url: '/about'}
 
 people:
