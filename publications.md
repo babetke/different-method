@@ -4,7 +4,7 @@ title: "Publications"
 ---
 ## Publications
 
-<center><img src="/images/IMG_1755.jpeg" alt="" width="100%"></center>
+<center><img src="/different-method/assets/img/IMG_1755.jpeg" alt="" width="100%"></center>
 <br>
 
 #### 2024
