@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Mentoring and Outreach
+## Mentoring and Outreach
 
 **Minorities in Biological Research (MBR)**
 

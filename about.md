@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# About
+## About
 
 <center><img src="/images/aboutHeader.jpg" alt="" width="100%"></center>
 <br>
