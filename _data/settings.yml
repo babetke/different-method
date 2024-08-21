@@ -2,7 +2,6 @@ menu:
 - {name: 'research', url: '/projects'}
 - {name: 'publications', url: '/publications'}
 - {name: 'outreach', url: '/DDCSP'}
-- {name: 'cv', url: '/cv'}
 - {name: 'about', url: '/about'}
 
 people:
