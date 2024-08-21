@@ -12,6 +12,7 @@ The DDCSP is a research program intended to promote diversity, equity and inclus
   <img src="/images/Picture1.png" alt="ddcsp" style="width:100%">
   <figcaption>Photo credit: National Conservation Training Center>
 </figure>
+<br>
 
 As an undergraduate, I was accepted into the second cohort of the DDCSP Collaborative in 2015. I worked on two different projects during my first summer both located in Arizona. The first project, I assisted in the locating of bighorn sheep, the maintenance of trail cameras, and collection of vegetation samples in the Catalina Mountains. The second project included observing gray hawk nests and recording alarm calls. I spent my second summer with the California Department of Fish and Wildlife's investigations Lab where I conducted necropies, delivered tissues for diagnostic testing, and managed data.
 
