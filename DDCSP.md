@@ -10,7 +10,7 @@ The DDCSP is a research program intended to promote diversity, equity and inclus
 
 <figure>
   <img src="/images/Picture1.png" alt="ddcsp" style="width:100%">
-  <figcaption>Photo credit: National Conservation Training Center>
+  <figcaption>Photo credit: National Conservation Training Center</figcaption>
 </figure>
 <br>
 
@@ -18,8 +18,11 @@ As an undergraduate, I was accepted into the second cohort of the DDCSP Collabor
 
 **Alumni Leadership Cohort (ALC) - 2017**
 
-![NCTC](/images/IMG_0561.JPG)
-*Photo credit: Briana Betke*
+<figure>
+  <img src="/images/IMG_0561.JPG" alt="ddcsp" style="width:100%">
+  <figcaption>Photo credit: Briana Betke</figcaption>
+</figure>
+<br>
 
 In 2017, I was selected to participate in the first Alumni Leadership Cohort (ALC) facilitated by the Environmental Leadership Program (ELP). I attended the ALC1 training in White Oak Conservation Center, Yulee, FL. There, I connected with some of my DDCSP cohort but also met with  Alumni of other DDCSP programs (DDCSP of Washington State, NAU, and UCSC). 
 
